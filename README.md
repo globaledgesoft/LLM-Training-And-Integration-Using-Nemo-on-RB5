@@ -127,7 +127,7 @@ Ensure you have the development kit and all necessary accessories.
       - Once the API key is generated, it will be displayed on the screen. Copy the key immediately and store it in a secure location.
       
       - Note that for security reasons, this will be the only time the full API key is displayed. If you lose it, you will need to generate a new one.
-       ![alt text](api_key.jpg)
+       ![alt text](assets/api_key.jpg)
 
 2. **Virtual Environment**:
 - Set up a virtual environment for Python to manage dependencies and avoid conflicts.
